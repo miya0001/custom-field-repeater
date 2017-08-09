@@ -1,0 +1,17 @@
+{
+    "name": "miya/custom-field-repeater",
+    "authors": [
+        {
+            "name": "miya0001",
+            "email": "miya0001@users.noreply.github.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Miya\\WP\\Custom_Field\\": "src/"
+        }
+    },
+    "require": {
+        "miya/custom-field": "^2.0"
+    }
+}
